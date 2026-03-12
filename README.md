@@ -19,7 +19,7 @@
 
 ```yaml
 role:       DevOps Engineer
-experience: 3+ years (Novidea · Pelephone NOC)
+experience: 3+ years
 focus:
   - CI/CD pipelines for .NET, Java, React, NodeJS, Salesforce
   - Infrastructure as Code (Terraform, Ansible)
